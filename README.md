@@ -61,12 +61,13 @@ npm start
 
 ---
 
-### 🚀 Frontend Setup
+### 🎯 Frontend Setup
 
 ```bash
 cd Frontend
 npm install
 npm run dev
+
 
 ---
 
