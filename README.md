@@ -53,3 +53,24 @@
 ```bash
 cd Backend
 npm install
+
+PORT=4001
+MongoDBURI="mongodb://localhost:27017/bookStore"
+
+npm start
+
+---
+
+### 🚀 Frontend Setup
+
+```bash
+cd Frontend
+npm install
+npm run dev
+
+---
+
+The frontend will be available at:
+👉 http://localhost:3000
+The backend API will run on:
+👉 http://localhost:4001
